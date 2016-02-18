@@ -1,0 +1,4 @@
+Valaki;4
+Valaki2;5
+En;6
+en;10
